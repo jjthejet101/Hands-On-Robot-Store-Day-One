@@ -5,9 +5,16 @@ img.resize {
 
 #headername {
   font-family: 'Roboto Mono', monospace;
-  font-size: 100px;
+  font-size: 130px;
 }
 
 .header {
-  display: inline;
+  /*display: inline;*/
+  /*background-color: grey;*/
+}
+
+.searchbox {
+  position: absolute;
+  top: 30px;
+  right: 30px;
 }
