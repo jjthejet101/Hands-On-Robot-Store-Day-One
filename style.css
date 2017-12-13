@@ -1,0 +1,13 @@
+img.resize {
+  max-width:20%;
+  max-height:20%;
+}
+
+#headername {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 100px;
+}
+
+.header {
+  display: inline;
+}
