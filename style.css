@@ -81,3 +81,7 @@ footer {
   background: #32676E;
   padding: 10px;
 }
+
+#col {
+  column-count: 2;
+}
