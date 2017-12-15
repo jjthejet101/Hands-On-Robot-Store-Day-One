@@ -75,6 +75,8 @@ fieldset {
   background: white;
   margin: 10px;
   padding: 20px;
+  border: none;
+  font-family: 'Roboto Mono', monospace;
 }
 
 footer {
