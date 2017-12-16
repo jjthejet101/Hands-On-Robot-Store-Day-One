@@ -10,12 +10,14 @@ img.resize {
 
 body {
   background: #54B8C4;
+  margin: 0px;
 }
-.header {
-  /*display: inline;*/
-  /*background-color: grey;*/
+.navbar-background {
+  padding-left: 20px;
 }
-
+.submitbutton {
+  margin-left: 20px;
+}
 .searchbox {
   position: absolute;
   top: 30px;
@@ -82,5 +84,7 @@ fieldset {
 
 footer {
   background: #32676E;
-  padding: 10px;
+  font-family: 'Roboto Mono', monospace;
+  padding: 30px;
+  margin: 30px 0px 0px;
 }
