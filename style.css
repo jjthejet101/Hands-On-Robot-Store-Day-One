@@ -3,11 +3,23 @@ img.resize {
   max-height:20%;
 }
 
+a:-webkit-any-link {
+  color: auto;
+  cursor: auto;
+  text-decoration: none;
+}
 #headername {
   font-family: 'Roboto Mono', monospace;
   font-size: 130px;
+  font-weight: bold;
 }
 
+#welcomeimage {
+  margin-left: 15%;
+}
+#coffeeofthemonth {
+  margin-left: 40%;
+}
 body {
   background: #54B8C4;
   margin: 0px;
